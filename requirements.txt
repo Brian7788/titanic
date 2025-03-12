@@ -1,1 +1,10 @@
+streamlit
 joblib
+numpy
+pandas
+scikit-learn
+xgboost
+tensorflow  # 如果使用 TensorFlow
+torch       # 如果使用 PyTorch
+matplotlib  # 如果你的代码里用到了 matplotlib
+seaborn     # 如果你的代码里用到了 seaborn
